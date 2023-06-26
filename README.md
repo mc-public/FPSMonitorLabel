@@ -14,7 +14,7 @@ For `iOS 8.0` and above, FPSMonitorLabel provides a `UILabel` subclass that can 
 
 The simplest usage example is shown below.
 
-```
+```swift
 import FPSMonitorLabel
 let label = FPSMonitorUILabel()
 label.updateFPSInternal = 0.5
@@ -27,7 +27,7 @@ For `iOS 13.0` and above, FPSMonitorLabel provides a `SwiftUI` view that can be 
 
 The simplest usage example is shown below.
 
-```
+```swift
 import FPSMonitorLabel
 struct ContentView: View {
     var body: some View {
