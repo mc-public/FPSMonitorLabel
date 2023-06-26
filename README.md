@@ -6,7 +6,7 @@
 
 `FPSMonitorLabel` supports iOS 8.0 and above.
 
-## Useage
+## Usage
 
 ### UIKit 
 
